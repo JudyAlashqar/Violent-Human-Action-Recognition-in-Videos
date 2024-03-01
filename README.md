@@ -7,4 +7,4 @@ Real Life Violence Situations Dataset https://www.kaggle.com/datasets/mohamedmus
 * 2D CNN + LSTM + Deep Neural Network
 * Pretrained VGG16/MobileNetV1/ResNet50 + LSTM/GRU/BiLSTM + Deep Neural Network
 ## Result:
-The best Model was ResNet50 + GRU + Deep Neural Network, it achieved an accuracy of 97.15%.
+The best Model was ResNet50 + GRU + Deep Neural Network, it achieved an accuracy of 97.15% using 5-Folds Cross Validation.
